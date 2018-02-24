@@ -1,1 +1,1 @@
-chapter3-full
+# VueJs-KnightsDuel-GuillaumeC: Chap03
